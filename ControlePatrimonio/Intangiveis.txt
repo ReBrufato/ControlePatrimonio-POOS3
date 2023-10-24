@@ -1,0 +1,3 @@
+3;software;3;15000.0
+1;Software;5;25000.0
+2;Patentes;4;15000.0
